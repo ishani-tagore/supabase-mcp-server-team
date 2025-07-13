@@ -1,0 +1,11 @@
+{
+ "name": "supabase-mcp-remote",
+ "version": "1.0.0",
+ "scripts": {
+   "start": "node server.js"
+ },
+ "dependencies": {
+   "@supabase/mcp-server-supabase": "latest",
+   "express": "^4.18.0"
+ }
+}
